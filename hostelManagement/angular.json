@@ -115,5 +115,8 @@
       }
     }
   },
-  "defaultProject": "hostelManagement"
+  "defaultProject": "hostelManagement",
+  "cli": {
+    "analytics": "7abcec99-560f-4aec-8001-fa4543f90b49"
+  }
 }
